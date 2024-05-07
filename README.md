@@ -1,1 +1,1 @@
-# bookbot
+First project of the boot.dev course.
